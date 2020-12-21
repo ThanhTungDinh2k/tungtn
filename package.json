@@ -2,10 +2,8 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-   node index.js
-  },
+  "start": "index.js",
+  "scripts": {  },
   "author": "",
   "license": "ISC",
   "dependencies": {
